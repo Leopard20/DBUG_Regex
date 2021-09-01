@@ -1,0 +1,3 @@
+[submodule "DBUG_Regex/sqf-value"]
+	path = DBUG_Regex/sqf-value
+	url = https://github.com/arma3/sqf-value
